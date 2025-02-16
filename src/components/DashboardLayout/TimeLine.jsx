@@ -5,6 +5,7 @@ import "react-big-calendar/lib/css/react-big-calendar.css";
 import { Box, Tab, Tabs } from "@mui/material";
 import { useTranslation } from "react-i18next";
 import { CircleCheck, Hourglass, Rocket } from "lucide-react";
+import GanttChart from "./GanttChart";
 
 // Setup moment localizer
 const localizer = momentLocalizer(moment);
@@ -139,10 +140,7 @@ const TimeLine = () => {
             </div>
           </CustomTabPanel>
           <CustomTabPanel value={value} index={1}>
-            Item Two
-          </CustomTabPanel>
-          <CustomTabPanel value={value} index={2}>
-            Item Three
+            <GanttChart />
           </CustomTabPanel>
         </Box>
       </div>
