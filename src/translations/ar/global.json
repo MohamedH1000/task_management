@@ -1,0 +1,38 @@
+{
+  "header": {
+    "main": "الرئيسية",
+    "logo": "لوجو",
+    "name": "ادارة المهام"
+  },
+  "dashboard": {
+    "projects": {
+      "projects": "المشاريع",
+      "todo": "للقيام بذلك",
+      "onProgress": "جاري التنفيذ",
+      "completed": "اكتملت",
+      "addProject": "قم باضافة مشروع"
+    },
+    "leftSideBar": {
+      "overview": "ملخص",
+      "projects": "المشاريع",
+      "timeline": "الجدول الزمني",
+      "team": "فريق",
+      "settings": "الاعدادات",
+      "logout": "تسجيل الخروج"
+    },
+    "timeline": {
+      "calender": "التقويم",
+      "ganttchart": "مخطط جانت"
+    }
+  },
+  "auth": {
+    "login": {
+      "login": "تسجيل الدخول",
+      "backMain": "العودة الى الصفحة الرئيسية",
+      "email": "البريد الالكتروني",
+      "password": "الباسوورد",
+      "resetPassword": "استعادة كلمة المرور",
+      "id": "الاي دي"
+    }
+  }
+}

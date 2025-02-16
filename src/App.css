@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+body {
+  font-family: "Tajawal", sans-serif;
+}

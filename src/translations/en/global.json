@@ -1,0 +1,38 @@
+{
+  "header": {
+    "main": "main",
+    "logo": "logo",
+    "name": "Task Management"
+  },
+  "dashboard": {
+    "projects": {
+      "projects": "Projects",
+      "todo": "To do",
+      "onProgress": "On Progress",
+      "completed": "Completed",
+      "addProject": "Add project"
+    },
+    "leftSideBar": {
+      "overview": "Overview",
+      "projects": "Projects",
+      "timeline": "Timeline",
+      "team": "Team",
+      "settings": "Settings",
+      "logout": "Log Out"
+    },
+    "timeline": {
+      "calender": "Calender",
+      "ganttchart": "Gantt Chart"
+    }
+  },
+  "auth": {
+    "login": {
+      "login": "Login",
+      "backMain": "Back to main",
+      "email": "Email",
+      "password": "Password",
+      "reserPassword": "Reset Password",
+      "id": "id"
+    }
+  }
+}
